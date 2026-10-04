@@ -1,0 +1,148 @@
+[
+  {
+    "run": "cold",
+    "profiles_evaluated": 99,
+    "total_network_size": 100,
+    "semantic_candidates": 0,
+    "complementarity_candidates": 0,
+    "candidate_pool_size": 99,
+    "profiles_fully_scored": 99,
+    "retrieval_backend": "none",
+    "vector_retrieval_time_ms": 0.0,
+    "complementarity_retrieval_time_ms": 0.0,
+    "thde_scoring_time_ms": 4186.65,
+    "execution_time_ms": 4214.45,
+    "ranking_limit": 5,
+    "retrieval_mode": "full",
+    "engine_version": "THDE-1.0",
+    "source": {
+      "user_id": "usr_00004",
+      "name": "Taylor Okafor",
+      "role": "AI Engineer",
+      "industry": "Healthcare",
+      "skills": [
+        "PyTorch",
+        "Machine Learning",
+        "Python",
+        "FastAPI"
+      ],
+      "experience_years": 6.0,
+      "interests": [
+        "Startups",
+        "Innovation in healthcare",
+        "Python"
+      ],
+      "professional_summary": "AI Engineer with 6 years of experience in healthcare, focused on python and cross-functional collaboration."
+    },
+    "top5": [
+      {
+        "user_id": "usr_00048",
+        "name": "Cameron Ali",
+        "role": "AI Engineer",
+        "affinity": 84.3,
+        "complementarity": 55.0
+      },
+      {
+        "user_id": "usr_00081",
+        "name": "Avery Quinn",
+        "role": "AI Engineer",
+        "affinity": 79.1,
+        "complementarity": 55.0
+      },
+      {
+        "user_id": "usr_00082",
+        "name": "Casey Lin",
+        "role": "AI Engineer",
+        "affinity": 79.1,
+        "complementarity": 55.0
+      },
+      {
+        "user_id": "usr_00026",
+        "name": "Avery Martinez",
+        "role": "AI Engineer",
+        "affinity": 74.5,
+        "complementarity": 55.0
+      },
+      {
+        "user_id": "usr_00028",
+        "name": "Cameron Bennett",
+        "role": "Data Scientist",
+        "affinity": 68.8,
+        "complementarity": 51.0
+      }
+    ]
+  },
+  {
+    "run": "warm",
+    "profiles_evaluated": 99,
+    "total_network_size": 100,
+    "semantic_candidates": 0,
+    "complementarity_candidates": 0,
+    "candidate_pool_size": 99,
+    "profiles_fully_scored": 99,
+    "retrieval_backend": "none",
+    "vector_retrieval_time_ms": 0.0,
+    "complementarity_retrieval_time_ms": 0.0,
+    "thde_scoring_time_ms": 19.14,
+    "execution_time_ms": 31.97,
+    "ranking_limit": 5,
+    "retrieval_mode": "full",
+    "engine_version": "THDE-1.0",
+    "source": {
+      "user_id": "usr_00004",
+      "name": "Taylor Okafor",
+      "role": "AI Engineer",
+      "industry": "Healthcare",
+      "skills": [
+        "PyTorch",
+        "Machine Learning",
+        "Python",
+        "FastAPI"
+      ],
+      "experience_years": 6.0,
+      "interests": [
+        "Startups",
+        "Innovation in healthcare",
+        "Python"
+      ],
+      "professional_summary": "AI Engineer with 6 years of experience in healthcare, focused on python and cross-functional collaboration."
+    },
+    "top5": [
+      {
+        "user_id": "usr_00048",
+        "name": "Cameron Ali",
+        "role": "AI Engineer",
+        "affinity": 84.3,
+        "complementarity": 55.0
+      },
+      {
+        "user_id": "usr_00081",
+        "name": "Avery Quinn",
+        "role": "AI Engineer",
+        "affinity": 79.1,
+        "complementarity": 55.0
+      },
+      {
+        "user_id": "usr_00082",
+        "name": "Casey Lin",
+        "role": "AI Engineer",
+        "affinity": 79.1,
+        "complementarity": 55.0
+      },
+      {
+        "user_id": "usr_00026",
+        "name": "Avery Martinez",
+        "role": "AI Engineer",
+        "affinity": 74.5,
+        "complementarity": 55.0
+      },
+      {
+        "user_id": "usr_00028",
+        "name": "Cameron Bennett",
+        "role": "Data Scientist",
+        "affinity": 68.8,
+        "complementarity": 51.0
+      }
+    ]
+  }
+]

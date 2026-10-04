@@ -1,0 +1,148 @@
+[
+  {
+    "run": "cold",
+    "profiles_evaluated": 999,
+    "total_network_size": 1000,
+    "semantic_candidates": 0,
+    "complementarity_candidates": 0,
+    "candidate_pool_size": 999,
+    "profiles_fully_scored": 999,
+    "retrieval_backend": "none",
+    "vector_retrieval_time_ms": 0.0,
+    "complementarity_retrieval_time_ms": 0.0,
+    "thde_scoring_time_ms": 3927.64,
+    "execution_time_ms": 3974.19,
+    "ranking_limit": 5,
+    "retrieval_mode": "full",
+    "engine_version": "THDE-1.0",
+    "source": {
+      "user_id": "usr_00004",
+      "name": "Taylor Okafor",
+      "role": "AI Engineer",
+      "industry": "Healthcare",
+      "skills": [
+        "PyTorch",
+        "Machine Learning",
+        "Python",
+        "FastAPI"
+      ],
+      "experience_years": 6.0,
+      "interests": [
+        "Startups",
+        "Innovation in healthcare",
+        "Python"
+      ],
+      "professional_summary": "AI Engineer with 6 years of experience in healthcare, focused on python and cross-functional collaboration."
+    },
+    "top5": [
+      {
+        "user_id": "usr_00246",
+        "name": "Avery Lopez",
+        "role": "AI Engineer",
+        "affinity": 88.8,
+        "complementarity": 55.0
+      },
+      {
+        "user_id": "usr_00950",
+        "name": "Mateo Garcia",
+        "role": "AI Engineer",
+        "affinity": 85.9,
+        "complementarity": 55.0
+      },
+      {
+        "user_id": "usr_00268",
+        "name": "Cameron Rivera",
+        "role": "AI Engineer",
+        "affinity": 85.6,
+        "complementarity": 55.0
+      },
+      {
+        "user_id": "usr_00840",
+        "name": "Elena Rivera",
+        "role": "AI Engineer",
+        "affinity": 84.6,
+        "complementarity": 55.0
+      },
+      {
+        "user_id": "usr_00048",
+        "name": "Cameron Ali",
+        "role": "AI Engineer",
+        "affinity": 84.3,
+        "complementarity": 55.0
+      }
+    ]
+  },
+  {
+    "run": "warm",
+    "profiles_evaluated": 999,
+    "total_network_size": 1000,
+    "semantic_candidates": 0,
+    "complementarity_candidates": 0,
+    "candidate_pool_size": 999,
+    "profiles_fully_scored": 999,
+    "retrieval_backend": "none",
+    "vector_retrieval_time_ms": 0.0,
+    "complementarity_retrieval_time_ms": 0.0,
+    "thde_scoring_time_ms": 406.55,
+    "execution_time_ms": 444.54,
+    "ranking_limit": 5,
+    "retrieval_mode": "full",
+    "engine_version": "THDE-1.0",
+    "source": {
+      "user_id": "usr_00004",
+      "name": "Taylor Okafor",
+      "role": "AI Engineer",
+      "industry": "Healthcare",
+      "skills": [
+        "PyTorch",
+        "Machine Learning",
+        "Python",
+        "FastAPI"
+      ],
+      "experience_years": 6.0,
+      "interests": [
+        "Startups",
+        "Innovation in healthcare",
+        "Python"
+      ],
+      "professional_summary": "AI Engineer with 6 years of experience in healthcare, focused on python and cross-functional collaboration."
+    },
+    "top5": [
+      {
+        "user_id": "usr_00246",
+        "name": "Avery Lopez",
+        "role": "AI Engineer",
+        "affinity": 88.8,
+        "complementarity": 55.0
+      },
+      {
+        "user_id": "usr_00950",
+        "name": "Mateo Garcia",
+        "role": "AI Engineer",
+        "affinity": 85.9,
+        "complementarity": 55.0
+      },
+      {
+        "user_id": "usr_00268",
+        "name": "Cameron Rivera",
+        "role": "AI Engineer",
+        "affinity": 85.6,
+        "complementarity": 55.0
+      },
+      {
+        "user_id": "usr_00840",
+        "name": "Elena Rivera",
+        "role": "AI Engineer",
+        "affinity": 84.6,
+        "complementarity": 55.0
+      },
+      {
+        "user_id": "usr_00048",
+        "name": "Cameron Ali",
+        "role": "AI Engineer",
+        "affinity": 84.3,
+        "complementarity": 55.0
+      }
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+.venv
+.git
+frontend/node_modules
+frontend/.next
+.env
+**/__pycache__
+**/.pytest_cache
+*.log
+dataset/profiles-50000.json

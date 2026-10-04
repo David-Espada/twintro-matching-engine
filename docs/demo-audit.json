@@ -1,0 +1,92 @@
+[
+  {
+    "case": "Nearly identical peers",
+    "profile_a": "usr_00081",
+    "profile_b": "usr_00082",
+    "affinity": 93.2,
+    "complementarity": 55.0,
+    "match_level": "Exceptional Match",
+    "complementarity_level": "Low Complementarity",
+    "insight": "These professionals are highly similar, making them suitable for peer collaboration, knowledge exchange, or comparable roles."
+  },
+  {
+    "case": "Related AI specialties",
+    "profile_a": "usr_00081",
+    "profile_b": "usr_00083",
+    "affinity": 81.8,
+    "complementarity": 55.0,
+    "match_level": "Strong Match",
+    "complementarity_level": "Low Complementarity",
+    "insight": "These professionals are highly similar, making them suitable for peer collaboration, knowledge exchange, or comparable roles."
+  },
+  {
+    "case": "AI meets product",
+    "profile_a": "usr_00004",
+    "profile_b": "usr_00008",
+    "affinity": 38.7,
+    "complementarity": 95.0,
+    "match_level": "Weak Match",
+    "complementarity_level": "Exceptional Complementarity",
+    "insight": "These professionals work in different areas, but their capabilities may combine effectively in cross-functional collaboration."
+  },
+  {
+    "case": "Marketing meets sales",
+    "profile_a": "usr_00085",
+    "profile_b": "usr_00086",
+    "affinity": 70.2,
+    "complementarity": 88.625,
+    "match_level": "Good Match",
+    "complementarity_level": "Strong Complementarity",
+    "insight": "These professionals work in different areas, but their capabilities may combine effectively in cross-functional collaboration."
+  },
+  {
+    "case": "Design meets product",
+    "profile_a": "usr_00087",
+    "profile_b": "usr_00084",
+    "affinity": 80.5,
+    "complementarity": 90.875,
+    "match_level": "Strong Match",
+    "complementarity_level": "Exceptional Complementarity",
+    "insight": "These professionals share a strong professional foundation and also bring complementary strengths."
+  },
+  {
+    "case": "Security meets DevOps",
+    "profile_a": "usr_00088",
+    "profile_b": "usr_00089",
+    "affinity": 69.0,
+    "complementarity": 82.75,
+    "match_level": "Moderate Match",
+    "complementarity_level": "Strong Complementarity",
+    "insight": "These professionals work in different areas, but their capabilities may combine effectively in cross-functional collaboration."
+  },
+  {
+    "case": "Different professional worlds",
+    "profile_a": "usr_00081",
+    "profile_b": "usr_00090",
+    "affinity": 22.2,
+    "complementarity": 10.0,
+    "match_level": "Weak Match",
+    "complementarity_level": "Weak Complementarity",
+    "insight": "The available profile evidence suggests limited professional alignment or complementary value."
+  },
+  {
+    "case": "Backend across toolsets",
+    "profile_a": "usr_00091",
+    "profile_b": "usr_00092",
+    "affinity": 63.1,
+    "complementarity": 45.625,
+    "match_level": "Moderate Match",
+    "complementarity_level": "Low Complementarity",
+    "insight": "The available profile evidence suggests limited professional alignment or complementary value."
+  },
+  {
+    "case": "AI meets backend engineering",
+    "profile_a": "usr_00081",
+    "profile_b": "usr_00091",
+    "affinity": 72.3,
+    "complementarity": 80.25,
+    "match_level": "Good Match",
+    "complementarity_level": "Strong Complementarity",
+    "insight": "These professionals work in different areas, but their capabilities may combine effectively in cross-functional collaboration."
+  }
+]

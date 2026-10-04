@@ -1,0 +1,17 @@
+.env
+frontend/.env.local
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.pyc
+*.egg-info/
+node_modules/
+.next/
+coverage/
+*.tsbuildinfo
+*.log
+test-results/
+playwright-report/
+.cache/
+dataset/profiles-50000.json

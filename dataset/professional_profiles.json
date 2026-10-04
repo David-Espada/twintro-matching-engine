@@ -1,0 +1,1897 @@
+[
+  {
+    "user_id": "usr_00001",
+    "name": "Alex Rivera",
+    "role": "Software Engineer",
+    "industry": "Technology",
+    "skills": [
+      "SQL",
+      "Java",
+      "Python",
+      "API design",
+      "Docker"
+    ],
+    "experience_years": 4,
+    "interests": [
+      "Sustainable innovation",
+      "Innovation in technology",
+      "Python"
+    ],
+    "professional_summary": "Software Engineer with 4 years of experience in technology, focused on python and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00002",
+    "name": "Morgan Chen",
+    "role": "Frontend Developer",
+    "industry": "Technology",
+    "skills": [
+      "Next.js",
+      "React",
+      "Design systems",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "experience_years": 18,
+    "interests": [
+      "Startups",
+      "Innovation in technology",
+      "React"
+    ],
+    "professional_summary": "Frontend Developer with 18 years of experience in technology, focused on react and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00003",
+    "name": "Jordan Patel",
+    "role": "Backend Developer",
+    "industry": "Technology",
+    "skills": [
+      "FastAPI",
+      "Docker",
+      "Python",
+      "API design",
+      "PostgreSQL"
+    ],
+    "experience_years": 17,
+    "interests": [
+      "Startups",
+      "Innovation in technology",
+      "Python"
+    ],
+    "professional_summary": "Backend Developer with 17 years of experience in technology, focused on python and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00004",
+    "name": "Taylor Okafor",
+    "role": "AI Engineer",
+    "industry": "Healthcare",
+    "skills": [
+      "PyTorch",
+      "Machine Learning",
+      "Python",
+      "FastAPI"
+    ],
+    "experience_years": 6,
+    "interests": [
+      "Startups",
+      "Innovation in healthcare",
+      "Python"
+    ],
+    "professional_summary": "AI Engineer with 6 years of experience in healthcare, focused on python and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00005",
+    "name": "Sam Silva",
+    "role": "Machine Learning Engineer",
+    "industry": "Biotechnology",
+    "skills": [
+      "Deep learning",
+      "Docker",
+      "MLOps"
+    ],
+    "experience_years": 3,
+    "interests": [
+      "Mentorship",
+      "Innovation in biotechnology",
+      "Python"
+    ],
+    "professional_summary": "Machine Learning Engineer with 3 years of experience in biotechnology, focused on python and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00006",
+    "name": "Avery Kim",
+    "role": "Data Scientist",
+    "industry": "Finance",
+    "skills": [
+      "Python",
+      "SQL",
+      "Pandas",
+      "Statistics",
+      "Machine Learning"
+    ],
+    "experience_years": 2,
+    "interests": [
+      "Sustainable innovation",
+      "Innovation in finance",
+      "Python"
+    ],
+    "professional_summary": "Data Scientist with 2 years of experience in finance, focused on python and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00007",
+    "name": "Riley Martinez",
+    "role": "Data Engineer",
+    "industry": "Technology",
+    "skills": [
+      "SQL",
+      "Spark",
+      "Python"
+    ],
+    "experience_years": 7,
+    "interests": [
+      "Startups",
+      "Innovation in technology",
+      "Python"
+    ],
+    "professional_summary": "Data Engineer with 7 years of experience in technology, focused on python and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00008",
+    "name": "Cameron Santos",
+    "role": "Product Manager",
+    "industry": "Education technology",
+    "skills": [
+      "Agile",
+      "User research",
+      "Product strategy",
+      "Roadmapping"
+    ],
+    "experience_years": 4,
+    "interests": [
+      "Mentorship",
+      "Innovation in education technology",
+      "Product strategy"
+    ],
+    "professional_summary": "Product Manager with 4 years of experience in education technology, focused on product strategy and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00009",
+    "name": "Sofia Bennett",
+    "role": "UX Designer",
+    "industry": "Healthcare",
+    "skills": [
+      "Figma",
+      "User experience",
+      "Prototyping",
+      "Design systems",
+      "User research"
+    ],
+    "experience_years": 7,
+    "interests": [
+      "Mentorship",
+      "Innovation in healthcare",
+      "Figma"
+    ],
+    "professional_summary": "UX Designer with 7 years of experience in healthcare, focused on figma and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00010",
+    "name": "Mateo Ali",
+    "role": "UI Designer",
+    "industry": "Ecommerce",
+    "skills": [
+      "Design systems",
+      "User interface",
+      "Visual design",
+      "Prototyping",
+      "Figma"
+    ],
+    "experience_years": 13,
+    "interests": [
+      "Startups",
+      "Innovation in ecommerce",
+      "Figma"
+    ],
+    "professional_summary": "UI Designer with 13 years of experience in ecommerce, focused on figma and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00011",
+    "name": "Priya Reyes",
+    "role": "Marketing Manager",
+    "industry": "Education",
+    "skills": [
+      "Campaign management",
+      "Content marketing",
+      "Copywriting",
+      "SEO"
+    ],
+    "experience_years": 2,
+    "interests": [
+      "Startups",
+      "Innovation in education",
+      "Content marketing"
+    ],
+    "professional_summary": "Marketing Manager with 2 years of experience in education, focused on content marketing and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00012",
+    "name": "Noah Costa",
+    "role": "Growth Manager",
+    "industry": "Ecommerce",
+    "skills": [
+      "SEO",
+      "A/B testing",
+      "Campaign management",
+      "Growth strategy",
+      "Analytics"
+    ],
+    "experience_years": 16,
+    "interests": [
+      "Sustainable innovation",
+      "Innovation in ecommerce",
+      "Growth strategy"
+    ],
+    "professional_summary": "Growth Manager with 16 years of experience in ecommerce, focused on growth strategy and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00013",
+    "name": "Amara Torres",
+    "role": "Sales Manager",
+    "industry": "Manufacturing",
+    "skills": [
+      "Partnerships",
+      "Team management",
+      "Negotiation",
+      "CRM",
+      "Sales strategy"
+    ],
+    "experience_years": 18,
+    "interests": [
+      "Startups",
+      "Innovation in manufacturing",
+      "Sales strategy"
+    ],
+    "professional_summary": "Sales Manager with 18 years of experience in manufacturing, focused on sales strategy and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00014",
+    "name": "Leo Singh",
+    "role": "Business Development Manager",
+    "industry": "Technology",
+    "skills": [
+      "Business development",
+      "Strategic planning",
+      "CRM"
+    ],
+    "experience_years": 5,
+    "interests": [
+      "Sustainable innovation",
+      "Innovation in technology",
+      "Business development"
+    ],
+    "professional_summary": "Business Development Manager with 5 years of experience in technology, focused on business development and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00015",
+    "name": "Nadia Park",
+    "role": "Founder",
+    "industry": "Financial technology",
+    "skills": [
+      "Leadership",
+      "Strategic planning",
+      "Fundraising",
+      "Product strategy",
+      "Team management"
+    ],
+    "experience_years": 12,
+    "interests": [
+      "Sustainable innovation",
+      "Innovation in financial technology",
+      "Leadership"
+    ],
+    "professional_summary": "Founder with 12 years of experience in financial technology, focused on leadership and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00016",
+    "name": "Kai Wilson",
+    "role": "CTO",
+    "industry": "Technology",
+    "skills": [
+      "Leadership",
+      "API design",
+      "Team management",
+      "Python",
+      "Amazon Web Services"
+    ],
+    "experience_years": 23,
+    "interests": [
+      "Mentorship",
+      "Innovation in technology",
+      "Leadership"
+    ],
+    "professional_summary": "CTO with 23 years of experience in technology, focused on leadership and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00017",
+    "name": "Isabel Garcia",
+    "role": "Cybersecurity Engineer",
+    "industry": "Finance",
+    "skills": [
+      "Threat modeling",
+      "Security auditing",
+      "Incident response",
+      "Linux"
+    ],
+    "experience_years": 14,
+    "interests": [
+      "Sustainable innovation",
+      "Innovation in finance",
+      "Threat modeling"
+    ],
+    "professional_summary": "Cybersecurity Engineer with 14 years of experience in finance, focused on threat modeling and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00018",
+    "name": "Omar Lopez",
+    "role": "DevOps Engineer",
+    "industry": "Healthcare",
+    "skills": [
+      "Linux",
+      "Kubernetes",
+      "Docker",
+      "CI/CD",
+      "Terraform"
+    ],
+    "experience_years": 4,
+    "interests": [
+      "Sustainable innovation",
+      "Innovation in healthcare",
+      "Docker"
+    ],
+    "professional_summary": "DevOps Engineer with 4 years of experience in healthcare, focused on docker and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00019",
+    "name": "Lucia Nguyen",
+    "role": "Cloud Engineer",
+    "industry": "Technology",
+    "skills": [
+      "Terraform",
+      "Docker",
+      "Amazon Web Services",
+      "Linux",
+      "Azure"
+    ],
+    "experience_years": 17,
+    "interests": [
+      "Mentorship",
+      "Innovation in technology",
+      "Amazon Web Services"
+    ],
+    "professional_summary": "Cloud Engineer with 17 years of experience in technology, focused on amazon web services and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00020",
+    "name": "Elena Vega",
+    "role": "Business Analyst",
+    "industry": "Finance",
+    "skills": [
+      "Roadmapping",
+      "SQL",
+      "Agile"
+    ],
+    "experience_years": 8,
+    "interests": [
+      "Sustainable innovation",
+      "Innovation in finance",
+      "SQL"
+    ],
+    "professional_summary": "Business Analyst with 8 years of experience in finance, focused on sql and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00021",
+    "name": "Alex Chen",
+    "role": "Investment Analyst",
+    "industry": "Finance",
+    "skills": [
+      "Valuation",
+      "Accounting",
+      "Investment analysis",
+      "Risk management",
+      "Financial modeling"
+    ],
+    "experience_years": 16,
+    "interests": [
+      "Mentorship",
+      "Innovation in finance",
+      "Financial modeling"
+    ],
+    "professional_summary": "Investment Analyst with 16 years of experience in finance, focused on financial modeling and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00022",
+    "name": "Morgan Patel",
+    "role": "Operations Manager",
+    "industry": "Manufacturing",
+    "skills": [
+      "Team management",
+      "Strategic planning",
+      "Risk management"
+    ],
+    "experience_years": 17,
+    "interests": [
+      "Mentorship",
+      "Innovation in manufacturing",
+      "Operations management"
+    ],
+    "professional_summary": "Operations Manager with 17 years of experience in manufacturing, focused on operations management and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00023",
+    "name": "Jordan Okafor",
+    "role": "Software Engineer",
+    "industry": "Finance",
+    "skills": [
+      "Docker",
+      "Python",
+      "API design",
+      "SQL",
+      "Java"
+    ],
+    "experience_years": 12,
+    "interests": [
+      "Mentorship",
+      "Innovation in finance",
+      "Python"
+    ],
+    "professional_summary": "Software Engineer with 12 years of experience in finance, focused on python and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00024",
+    "name": "Taylor Silva",
+    "role": "Frontend Developer",
+    "industry": "Technology",
+    "skills": [
+      "TypeScript",
+      "React",
+      "Next.js",
+      "JavaScript",
+      "Design systems"
+    ],
+    "experience_years": 1,
+    "interests": [
+      "Startups",
+      "Innovation in technology",
+      "React"
+    ],
+    "professional_summary": "Frontend Developer with 1 years of experience in technology, focused on react and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00025",
+    "name": "Sam Kim",
+    "role": "Backend Developer",
+    "industry": "Financial technology",
+    "skills": [
+      "API design",
+      "FastAPI",
+      "Docker"
+    ],
+    "experience_years": 2,
+    "interests": [
+      "Sustainable innovation",
+      "Innovation in financial technology",
+      "Python"
+    ],
+    "professional_summary": "Backend Developer with 2 years of experience in financial technology, focused on python and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00026",
+    "name": "Avery Martinez",
+    "role": "AI Engineer",
+    "industry": "Technology",
+    "skills": [
+      "Machine Learning",
+      "FastAPI",
+      "Python",
+      "Natural language processing",
+      "PyTorch"
+    ],
+    "experience_years": 16,
+    "interests": [
+      "Startups",
+      "Innovation in technology",
+      "Python"
+    ],
+    "professional_summary": "AI Engineer with 16 years of experience in technology, focused on python and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00027",
+    "name": "Riley Santos",
+    "role": "Machine Learning Engineer",
+    "industry": "Technology",
+    "skills": [
+      "MLOps",
+      "Deep learning",
+      "TensorFlow",
+      "Docker",
+      "Python"
+    ],
+    "experience_years": 4,
+    "interests": [
+      "Sustainable innovation",
+      "Innovation in technology",
+      "Python"
+    ],
+    "professional_summary": "Machine Learning Engineer with 4 years of experience in technology, focused on python and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00028",
+    "name": "Cameron Bennett",
+    "role": "Data Scientist",
+    "industry": "Healthcare",
+    "skills": [
+      "SQL",
+      "Machine Learning",
+      "Python"
+    ],
+    "experience_years": 2,
+    "interests": [
+      "Startups",
+      "Innovation in healthcare",
+      "Python"
+    ],
+    "professional_summary": "Data Scientist with 2 years of experience in healthcare, focused on python and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00029",
+    "name": "Sofia Ali",
+    "role": "Data Engineer",
+    "industry": "Technology",
+    "skills": [
+      "dbt",
+      "SQL",
+      "Data modeling",
+      "Python",
+      "Spark"
+    ],
+    "experience_years": 7,
+    "interests": [
+      "Mentorship",
+      "Innovation in technology",
+      "Python"
+    ],
+    "professional_summary": "Data Engineer with 7 years of experience in technology, focused on python and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00030",
+    "name": "Mateo Reyes",
+    "role": "Product Manager",
+    "industry": "Technology",
+    "skills": [
+      "Analytics",
+      "Product strategy",
+      "Agile",
+      "User research"
+    ],
+    "experience_years": 8,
+    "interests": [
+      "Startups",
+      "Innovation in technology",
+      "Product strategy"
+    ],
+    "professional_summary": "Product Manager with 8 years of experience in technology, focused on product strategy and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00031",
+    "name": "Priya Costa",
+    "role": "UX Designer",
+    "industry": "Technology",
+    "skills": [
+      "User research",
+      "Design systems",
+      "Figma",
+      "User experience"
+    ],
+    "experience_years": 8,
+    "interests": [
+      "Startups",
+      "Innovation in technology",
+      "Figma"
+    ],
+    "professional_summary": "UX Designer with 8 years of experience in technology, focused on figma and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00032",
+    "name": "Noah Torres",
+    "role": "UI Designer",
+    "industry": "Ecommerce",
+    "skills": [
+      "Prototyping",
+      "Visual design",
+      "User interface"
+    ],
+    "experience_years": 6,
+    "interests": [
+      "Mentorship",
+      "Innovation in ecommerce",
+      "Figma"
+    ],
+    "professional_summary": "UI Designer with 6 years of experience in ecommerce, focused on figma and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00033",
+    "name": "Amara Singh",
+    "role": "Marketing Manager",
+    "industry": "Education",
+    "skills": [
+      "SEO",
+      "Campaign management",
+      "Content marketing"
+    ],
+    "experience_years": 14,
+    "interests": [
+      "Startups",
+      "Innovation in education",
+      "Content marketing"
+    ],
+    "professional_summary": "Marketing Manager with 14 years of experience in education, focused on content marketing and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00034",
+    "name": "Leo Park",
+    "role": "Growth Manager",
+    "industry": "Technology",
+    "skills": [
+      "Analytics",
+      "Growth strategy",
+      "SEO",
+      "A/B testing",
+      "Campaign management"
+    ],
+    "experience_years": 18,
+    "interests": [
+      "Startups",
+      "Innovation in technology",
+      "Growth strategy"
+    ],
+    "professional_summary": "Growth Manager with 18 years of experience in technology, focused on growth strategy and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00035",
+    "name": "Nadia Wilson",
+    "role": "Sales Manager",
+    "industry": "Technology",
+    "skills": [
+      "Sales strategy",
+      "Partnerships",
+      "Negotiation"
+    ],
+    "experience_years": 17,
+    "interests": [
+      "Startups",
+      "Innovation in technology",
+      "Sales strategy"
+    ],
+    "professional_summary": "Sales Manager with 17 years of experience in technology, focused on sales strategy and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00036",
+    "name": "Kai Garcia",
+    "role": "Business Development Manager",
+    "industry": "Finance",
+    "skills": [
+      "Partnerships",
+      "Business development",
+      "Negotiation",
+      "CRM",
+      "Strategic planning"
+    ],
+    "experience_years": 13,
+    "interests": [
+      "Sustainable innovation",
+      "Innovation in finance",
+      "Business development"
+    ],
+    "professional_summary": "Business Development Manager with 13 years of experience in finance, focused on business development and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00037",
+    "name": "Isabel Lopez",
+    "role": "Founder",
+    "industry": "Financial technology",
+    "skills": [
+      "Fundraising",
+      "Product strategy",
+      "Leadership",
+      "Team management"
+    ],
+    "experience_years": 19,
+    "interests": [
+      "Mentorship",
+      "Innovation in financial technology",
+      "Leadership"
+    ],
+    "professional_summary": "Founder with 19 years of experience in financial technology, focused on leadership and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00038",
+    "name": "Omar Nguyen",
+    "role": "CTO",
+    "industry": "Financial technology",
+    "skills": [
+      "API design",
+      "Leadership",
+      "Team management",
+      "Python"
+    ],
+    "experience_years": 12,
+    "interests": [
+      "Sustainable innovation",
+      "Innovation in financial technology",
+      "Leadership"
+    ],
+    "professional_summary": "CTO with 12 years of experience in financial technology, focused on leadership and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00039",
+    "name": "Lucia Vega",
+    "role": "Cybersecurity Engineer",
+    "industry": "Finance",
+    "skills": [
+      "Penetration testing",
+      "Security auditing",
+      "Threat modeling",
+      "Linux",
+      "Incident response"
+    ],
+    "experience_years": 4,
+    "interests": [
+      "Startups",
+      "Innovation in finance",
+      "Threat modeling"
+    ],
+    "professional_summary": "Cybersecurity Engineer with 4 years of experience in finance, focused on threat modeling and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00040",
+    "name": "Elena Rivera",
+    "role": "DevOps Engineer",
+    "industry": "Healthcare",
+    "skills": [
+      "CI/CD",
+      "Terraform",
+      "Linux"
+    ],
+    "experience_years": 12,
+    "interests": [
+      "Sustainable innovation",
+      "Innovation in healthcare",
+      "Docker"
+    ],
+    "professional_summary": "DevOps Engineer with 12 years of experience in healthcare, focused on docker and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00041",
+    "name": "Alex Patel",
+    "role": "Cloud Engineer",
+    "industry": "Technology",
+    "skills": [
+      "Linux",
+      "Terraform",
+      "Docker",
+      "Amazon Web Services",
+      "Azure"
+    ],
+    "experience_years": 17,
+    "interests": [
+      "Mentorship",
+      "Innovation in technology",
+      "Amazon Web Services"
+    ],
+    "professional_summary": "Cloud Engineer with 17 years of experience in technology, focused on amazon web services and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00042",
+    "name": "Morgan Okafor",
+    "role": "Business Analyst",
+    "industry": "Finance",
+    "skills": [
+      "Roadmapping",
+      "Data analysis",
+      "Agile",
+      "Analytics",
+      "SQL"
+    ],
+    "experience_years": 4,
+    "interests": [
+      "Sustainable innovation",
+      "Innovation in finance",
+      "SQL"
+    ],
+    "professional_summary": "Business Analyst with 4 years of experience in finance, focused on sql and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00043",
+    "name": "Jordan Silva",
+    "role": "Investment Analyst",
+    "industry": "Finance",
+    "skills": [
+      "Investment analysis",
+      "Risk management",
+      "Valuation",
+      "Financial modeling",
+      "Accounting"
+    ],
+    "experience_years": 11,
+    "interests": [
+      "Sustainable innovation",
+      "Innovation in finance",
+      "Financial modeling"
+    ],
+    "professional_summary": "Investment Analyst with 11 years of experience in finance, focused on financial modeling and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00044",
+    "name": "Taylor Kim",
+    "role": "Operations Manager",
+    "industry": "Manufacturing",
+    "skills": [
+      "Operations management",
+      "Team management",
+      "Risk management"
+    ],
+    "experience_years": 14,
+    "interests": [
+      "Sustainable innovation",
+      "Innovation in manufacturing",
+      "Operations management"
+    ],
+    "professional_summary": "Operations Manager with 14 years of experience in manufacturing, focused on operations management and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00045",
+    "name": "Sam Martinez",
+    "role": "Software Engineer",
+    "industry": "Technology",
+    "skills": [
+      "Docker",
+      "API design",
+      "SQL",
+      "Python",
+      "Java"
+    ],
+    "experience_years": 9,
+    "interests": [
+      "Startups",
+      "Innovation in technology",
+      "Python"
+    ],
+    "professional_summary": "Software Engineer with 9 years of experience in technology, focused on python and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00046",
+    "name": "Avery Santos",
+    "role": "Frontend Developer",
+    "industry": "Technology",
+    "skills": [
+      "Design systems",
+      "TypeScript",
+      "Next.js",
+      "React"
+    ],
+    "experience_years": 5,
+    "interests": [
+      "Startups",
+      "Innovation in technology",
+      "React"
+    ],
+    "professional_summary": "Frontend Developer with 5 years of experience in technology, focused on react and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00047",
+    "name": "Riley Bennett",
+    "role": "Backend Developer",
+    "industry": "Financial technology",
+    "skills": [
+      "PostgreSQL",
+      "FastAPI",
+      "API design"
+    ],
+    "experience_years": 10,
+    "interests": [
+      "Startups",
+      "Innovation in financial technology",
+      "Python"
+    ],
+    "professional_summary": "Backend Developer with 10 years of experience in financial technology, focused on python and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00048",
+    "name": "Cameron Ali",
+    "role": "AI Engineer",
+    "industry": "Healthcare",
+    "skills": [
+      "FastAPI",
+      "Machine Learning",
+      "Python",
+      "PyTorch",
+      "Natural language processing"
+    ],
+    "experience_years": 4,
+    "interests": [
+      "Mentorship",
+      "Innovation in healthcare",
+      "Python"
+    ],
+    "professional_summary": "AI Engineer with 4 years of experience in healthcare, focused on python and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00049",
+    "name": "Sofia Reyes",
+    "role": "Machine Learning Engineer",
+    "industry": "Technology",
+    "skills": [
+      "Deep learning",
+      "MLOps",
+      "Docker",
+      "Python",
+      "TensorFlow"
+    ],
+    "experience_years": 1,
+    "interests": [
+      "Startups",
+      "Innovation in technology",
+      "Python"
+    ],
+    "professional_summary": "Machine Learning Engineer with 1 years of experience in technology, focused on python and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00050",
+    "name": "Mateo Costa",
+    "role": "Data Scientist",
+    "industry": "Finance",
+    "skills": [
+      "SQL",
+      "Statistics",
+      "Python"
+    ],
+    "experience_years": 4,
+    "interests": [
+      "Mentorship",
+      "Innovation in finance",
+      "Python"
+    ],
+    "professional_summary": "Data Scientist with 4 years of experience in finance, focused on python and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00051",
+    "name": "Priya Torres",
+    "role": "Data Engineer",
+    "industry": "Retail",
+    "skills": [
+      "SQL",
+      "Python",
+      "Spark"
+    ],
+    "experience_years": 12,
+    "interests": [
+      "Startups",
+      "Innovation in retail",
+      "Python"
+    ],
+    "professional_summary": "Data Engineer with 12 years of experience in retail, focused on python and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00052",
+    "name": "Noah Singh",
+    "role": "Product Manager",
+    "industry": "Education technology",
+    "skills": [
+      "Product strategy",
+      "User research",
+      "Roadmapping",
+      "Agile"
+    ],
+    "experience_years": 13,
+    "interests": [
+      "Sustainable innovation",
+      "Innovation in education technology",
+      "Product strategy"
+    ],
+    "professional_summary": "Product Manager with 13 years of experience in education technology, focused on product strategy and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00053",
+    "name": "Amara Park",
+    "role": "UX Designer",
+    "industry": "Healthcare",
+    "skills": [
+      "Figma",
+      "Prototyping",
+      "Design systems"
+    ],
+    "experience_years": 18,
+    "interests": [
+      "Sustainable innovation",
+      "Innovation in healthcare",
+      "Figma"
+    ],
+    "professional_summary": "UX Designer with 18 years of experience in healthcare, focused on figma and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00054",
+    "name": "Leo Wilson",
+    "role": "UI Designer",
+    "industry": "Technology",
+    "skills": [
+      "Design systems",
+      "Prototyping",
+      "User interface"
+    ],
+    "experience_years": 9,
+    "interests": [
+      "Sustainable innovation",
+      "Innovation in technology",
+      "Figma"
+    ],
+    "professional_summary": "UI Designer with 9 years of experience in technology, focused on figma and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00055",
+    "name": "Nadia Garcia",
+    "role": "Marketing Manager",
+    "industry": "Education",
+    "skills": [
+      "Analytics",
+      "Content marketing",
+      "SEO",
+      "Copywriting",
+      "Campaign management"
+    ],
+    "experience_years": 11,
+    "interests": [
+      "Startups",
+      "Innovation in education",
+      "Content marketing"
+    ],
+    "professional_summary": "Marketing Manager with 11 years of experience in education, focused on content marketing and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00056",
+    "name": "Kai Lopez",
+    "role": "Growth Manager",
+    "industry": "Technology",
+    "skills": [
+      "Campaign management",
+      "A/B testing",
+      "SEO",
+      "Analytics",
+      "Growth strategy"
+    ],
+    "experience_years": 14,
+    "interests": [
+      "Sustainable innovation",
+      "Innovation in technology",
+      "Growth strategy"
+    ],
+    "professional_summary": "Growth Manager with 14 years of experience in technology, focused on growth strategy and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00057",
+    "name": "Isabel Nguyen",
+    "role": "Sales Manager",
+    "industry": "Manufacturing",
+    "skills": [
+      "Sales strategy",
+      "Negotiation",
+      "Team management",
+      "CRM",
+      "Partnerships"
+    ],
+    "experience_years": 11,
+    "interests": [
+      "Mentorship",
+      "Innovation in manufacturing",
+      "Sales strategy"
+    ],
+    "professional_summary": "Sales Manager with 11 years of experience in manufacturing, focused on sales strategy and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00058",
+    "name": "Omar Vega",
+    "role": "Business Development Manager",
+    "industry": "Technology",
+    "skills": [
+      "Partnerships",
+      "Strategic planning",
+      "CRM",
+      "Negotiation",
+      "Business development"
+    ],
+    "experience_years": 13,
+    "interests": [
+      "Sustainable innovation",
+      "Innovation in technology",
+      "Business development"
+    ],
+    "professional_summary": "Business Development Manager with 13 years of experience in technology, focused on business development and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00059",
+    "name": "Lucia Rivera",
+    "role": "Founder",
+    "industry": "Financial technology",
+    "skills": [
+      "Team management",
+      "Leadership",
+      "Fundraising",
+      "Product strategy"
+    ],
+    "experience_years": 19,
+    "interests": [
+      "Startups",
+      "Innovation in financial technology",
+      "Leadership"
+    ],
+    "professional_summary": "Founder with 19 years of experience in financial technology, focused on leadership and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00060",
+    "name": "Elena Chen",
+    "role": "CTO",
+    "industry": "Financial technology",
+    "skills": [
+      "Team management",
+      "Amazon Web Services",
+      "API design",
+      "Leadership"
+    ],
+    "experience_years": 16,
+    "interests": [
+      "Sustainable innovation",
+      "Innovation in financial technology",
+      "Leadership"
+    ],
+    "professional_summary": "CTO with 16 years of experience in financial technology, focused on leadership and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00061",
+    "name": "Alex Okafor",
+    "role": "Cybersecurity Engineer",
+    "industry": "Finance",
+    "skills": [
+      "Threat modeling",
+      "Security auditing",
+      "Incident response",
+      "Penetration testing",
+      "Linux"
+    ],
+    "experience_years": 16,
+    "interests": [
+      "Startups",
+      "Innovation in finance",
+      "Threat modeling"
+    ],
+    "professional_summary": "Cybersecurity Engineer with 16 years of experience in finance, focused on threat modeling and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00062",
+    "name": "Morgan Silva",
+    "role": "DevOps Engineer",
+    "industry": "Technology",
+    "skills": [
+      "Kubernetes",
+      "Docker",
+      "CI/CD"
+    ],
+    "experience_years": 10,
+    "interests": [
+      "Startups",
+      "Innovation in technology",
+      "Docker"
+    ],
+    "professional_summary": "DevOps Engineer with 10 years of experience in technology, focused on docker and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00063",
+    "name": "Jordan Kim",
+    "role": "Cloud Engineer",
+    "industry": "Technology",
+    "skills": [
+      "Docker",
+      "Azure",
+      "Terraform",
+      "Linux"
+    ],
+    "experience_years": 16,
+    "interests": [
+      "Mentorship",
+      "Innovation in technology",
+      "Amazon Web Services"
+    ],
+    "professional_summary": "Cloud Engineer with 16 years of experience in technology, focused on amazon web services and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00064",
+    "name": "Taylor Martinez",
+    "role": "Business Analyst",
+    "industry": "Finance",
+    "skills": [
+      "SQL",
+      "Roadmapping",
+      "Data analysis"
+    ],
+    "experience_years": 13,
+    "interests": [
+      "Startups",
+      "Innovation in finance",
+      "SQL"
+    ],
+    "professional_summary": "Business Analyst with 13 years of experience in finance, focused on sql and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00065",
+    "name": "Sam Santos",
+    "role": "Investment Analyst",
+    "industry": "Financial technology",
+    "skills": [
+      "Accounting",
+      "Valuation",
+      "Financial modeling"
+    ],
+    "experience_years": 6,
+    "interests": [
+      "Mentorship",
+      "Innovation in financial technology",
+      "Financial modeling"
+    ],
+    "professional_summary": "Investment Analyst with 6 years of experience in financial technology, focused on financial modeling and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00066",
+    "name": "Avery Bennett",
+    "role": "Operations Manager",
+    "industry": "Manufacturing",
+    "skills": [
+      "Risk management",
+      "Strategic planning",
+      "Team management",
+      "Operations management"
+    ],
+    "experience_years": 5,
+    "interests": [
+      "Startups",
+      "Innovation in manufacturing",
+      "Operations management"
+    ],
+    "professional_summary": "Operations Manager with 5 years of experience in manufacturing, focused on operations management and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00067",
+    "name": "Riley Ali",
+    "role": "Software Engineer",
+    "industry": "Finance",
+    "skills": [
+      "Java",
+      "SQL",
+      "Docker",
+      "API design"
+    ],
+    "experience_years": 16,
+    "interests": [
+      "Sustainable innovation",
+      "Innovation in finance",
+      "Python"
+    ],
+    "professional_summary": "Software Engineer with 16 years of experience in finance, focused on python and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00068",
+    "name": "Cameron Reyes",
+    "role": "Frontend Developer",
+    "industry": "Ecommerce",
+    "skills": [
+      "React",
+      "JavaScript",
+      "Design systems",
+      "TypeScript"
+    ],
+    "experience_years": 8,
+    "interests": [
+      "Mentorship",
+      "Innovation in ecommerce",
+      "React"
+    ],
+    "professional_summary": "Frontend Developer with 8 years of experience in ecommerce, focused on react and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00069",
+    "name": "Sofia Costa",
+    "role": "Backend Developer",
+    "industry": "Technology",
+    "skills": [
+      "FastAPI",
+      "API design",
+      "Docker"
+    ],
+    "experience_years": 11,
+    "interests": [
+      "Sustainable innovation",
+      "Innovation in technology",
+      "Python"
+    ],
+    "professional_summary": "Backend Developer with 11 years of experience in technology, focused on python and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00070",
+    "name": "Mateo Torres",
+    "role": "AI Engineer",
+    "industry": "Technology",
+    "skills": [
+      "FastAPI",
+      "Natural language processing",
+      "Machine Learning"
+    ],
+    "experience_years": 5,
+    "interests": [
+      "Sustainable innovation",
+      "Innovation in technology",
+      "Python"
+    ],
+    "professional_summary": "AI Engineer with 5 years of experience in technology, focused on python and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00071",
+    "name": "Priya Singh",
+    "role": "Machine Learning Engineer",
+    "industry": "Biotechnology",
+    "skills": [
+      "TensorFlow",
+      "MLOps",
+      "Docker"
+    ],
+    "experience_years": 15,
+    "interests": [
+      "Sustainable innovation",
+      "Innovation in biotechnology",
+      "Python"
+    ],
+    "professional_summary": "Machine Learning Engineer with 15 years of experience in biotechnology, focused on python and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00072",
+    "name": "Noah Park",
+    "role": "Data Scientist",
+    "industry": "Finance",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Statistics",
+      "SQL"
+    ],
+    "experience_years": 1,
+    "interests": [
+      "Mentorship",
+      "Innovation in finance",
+      "Python"
+    ],
+    "professional_summary": "Data Scientist with 1 years of experience in finance, focused on python and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00073",
+    "name": "Amara Wilson",
+    "role": "Data Engineer",
+    "industry": "Technology",
+    "skills": [
+      "SQL",
+      "Spark",
+      "Data modeling",
+      "dbt"
+    ],
+    "experience_years": 18,
+    "interests": [
+      "Startups",
+      "Innovation in technology",
+      "Python"
+    ],
+    "professional_summary": "Data Engineer with 18 years of experience in technology, focused on python and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00074",
+    "name": "Leo Garcia",
+    "role": "Product Manager",
+    "industry": "Education technology",
+    "skills": [
+      "Agile",
+      "Roadmapping",
+      "Analytics",
+      "Product strategy",
+      "User research"
+    ],
+    "experience_years": 13,
+    "interests": [
+      "Mentorship",
+      "Innovation in education technology",
+      "Product strategy"
+    ],
+    "professional_summary": "Product Manager with 13 years of experience in education technology, focused on product strategy and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00075",
+    "name": "Nadia Lopez",
+    "role": "UX Designer",
+    "industry": "Technology",
+    "skills": [
+      "User research",
+      "User experience",
+      "Design systems",
+      "Figma",
+      "Prototyping"
+    ],
+    "experience_years": 1,
+    "interests": [
+      "Mentorship",
+      "Innovation in technology",
+      "Figma"
+    ],
+    "professional_summary": "UX Designer with 1 years of experience in technology, focused on figma and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00076",
+    "name": "Kai Nguyen",
+    "role": "UI Designer",
+    "industry": "Ecommerce",
+    "skills": [
+      "Prototyping",
+      "Visual design",
+      "User interface"
+    ],
+    "experience_years": 13,
+    "interests": [
+      "Mentorship",
+      "Innovation in ecommerce",
+      "Figma"
+    ],
+    "professional_summary": "UI Designer with 13 years of experience in ecommerce, focused on figma and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00077",
+    "name": "Isabel Vega",
+    "role": "Marketing Manager",
+    "industry": "Education",
+    "skills": [
+      "Content marketing",
+      "Copywriting",
+      "Analytics",
+      "Campaign management"
+    ],
+    "experience_years": 9,
+    "interests": [
+      "Mentorship",
+      "Innovation in education",
+      "Content marketing"
+    ],
+    "professional_summary": "Marketing Manager with 9 years of experience in education, focused on content marketing and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00078",
+    "name": "Omar Rivera",
+    "role": "Growth Manager",
+    "industry": "Technology",
+    "skills": [
+      "Growth strategy",
+      "Campaign management",
+      "SEO",
+      "Analytics",
+      "A/B testing"
+    ],
+    "experience_years": 8,
+    "interests": [
+      "Sustainable innovation",
+      "Innovation in technology",
+      "Growth strategy"
+    ],
+    "professional_summary": "Growth Manager with 8 years of experience in technology, focused on growth strategy and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00079",
+    "name": "Lucia Chen",
+    "role": "Sales Manager",
+    "industry": "Technology",
+    "skills": [
+      "Team management",
+      "Sales strategy",
+      "Negotiation"
+    ],
+    "experience_years": 5,
+    "interests": [
+      "Startups",
+      "Innovation in technology",
+      "Sales strategy"
+    ],
+    "professional_summary": "Sales Manager with 5 years of experience in technology, focused on sales strategy and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00080",
+    "name": "Elena Patel",
+    "role": "Business Development Manager",
+    "industry": "Technology",
+    "skills": [
+      "Partnerships",
+      "Business development",
+      "CRM",
+      "Strategic planning"
+    ],
+    "experience_years": 15,
+    "interests": [
+      "Startups",
+      "Innovation in technology",
+      "Business development"
+    ],
+    "professional_summary": "Business Development Manager with 15 years of experience in technology, focused on business development and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00081",
+    "name": "Avery Quinn",
+    "role": "AI Engineer",
+    "industry": "Technology",
+    "experience_years": 8,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "PyTorch",
+      "FastAPI"
+    ],
+    "interests": [
+      "AI Products",
+      "Startups"
+    ],
+    "professional_summary": "Synthetic ai engineer with 8 years in technology, focused on python and ai products."
+  },
+  {
+    "user_id": "usr_00082",
+    "name": "Casey Lin",
+    "role": "AI Engineer",
+    "industry": "Technology",
+    "experience_years": 8,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "PyTorch",
+      "FastAPI"
+    ],
+    "interests": [
+      "AI Products",
+      "Startups"
+    ],
+    "professional_summary": "Synthetic ai engineer with 8 years in technology, focused on python and ai products."
+  },
+  {
+    "user_id": "usr_00083",
+    "name": "Rowan Patel",
+    "role": "Machine Learning Engineer",
+    "industry": "Technology",
+    "experience_years": 7,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "PyTorch",
+      "TensorFlow"
+    ],
+    "interests": [
+      "AI Products",
+      "Startups"
+    ],
+    "professional_summary": "Synthetic machine learning engineer with 7 years in technology, focused on python and ai products."
+  },
+  {
+    "user_id": "usr_00084",
+    "name": "Jordan Reyes",
+    "role": "Product Manager",
+    "industry": "Technology",
+    "experience_years": 8,
+    "skills": [
+      "Product strategy",
+      "Roadmapping",
+      "User research",
+      "Analytics"
+    ],
+    "interests": [
+      "AI Products",
+      "Startups"
+    ],
+    "professional_summary": "Synthetic product manager with 8 years in technology, focused on product strategy and ai products."
+  },
+  {
+    "user_id": "usr_00085",
+    "name": "Maya Costa",
+    "role": "Marketing Manager",
+    "industry": "Ecommerce",
+    "experience_years": 6,
+    "skills": [
+      "Content marketing",
+      "SEO",
+      "Campaign management",
+      "Analytics"
+    ],
+    "interests": [
+      "Customer experience",
+      "Business growth"
+    ],
+    "professional_summary": "Synthetic marketing manager with 6 years in ecommerce, focused on content marketing and customer experience."
+  },
+  {
+    "user_id": "usr_00086",
+    "name": "Noah Bennett",
+    "role": "Sales Manager",
+    "industry": "Ecommerce",
+    "experience_years": 8,
+    "skills": [
+      "Sales strategy",
+      "CRM",
+      "Negotiation",
+      "Partnerships"
+    ],
+    "interests": [
+      "Customer experience",
+      "Business growth"
+    ],
+    "professional_summary": "Synthetic sales manager with 8 years in ecommerce, focused on sales strategy and customer experience."
+  },
+  {
+    "user_id": "usr_00087",
+    "name": "Sofia Park",
+    "role": "UX Designer",
+    "industry": "Technology",
+    "experience_years": 7,
+    "skills": [
+      "Figma",
+      "User research",
+      "Product strategy",
+      "Analytics"
+    ],
+    "interests": [
+      "AI Products",
+      "Startups"
+    ],
+    "professional_summary": "Synthetic ux designer with 7 years in technology, focused on figma and ai products."
+  },
+  {
+    "user_id": "usr_00088",
+    "name": "Omar Vega",
+    "role": "Cybersecurity Engineer",
+    "industry": "Technology",
+    "experience_years": 9,
+    "skills": [
+      "Threat modeling",
+      "Security auditing",
+      "Incident response",
+      "Linux"
+    ],
+    "interests": [
+      "Cloud security",
+      "Reliable systems"
+    ],
+    "professional_summary": "Synthetic cybersecurity engineer with 9 years in technology, focused on threat modeling and cloud security."
+  },
+  {
+    "user_id": "usr_00089",
+    "name": "Elena Singh",
+    "role": "DevOps Engineer",
+    "industry": "Technology",
+    "experience_years": 8,
+    "skills": [
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Linux"
+    ],
+    "interests": [
+      "Cloud security",
+      "Reliable systems"
+    ],
+    "professional_summary": "Synthetic devops engineer with 8 years in technology, focused on docker and cloud security."
+  },
+  {
+    "user_id": "usr_00090",
+    "name": "Mateo Santos",
+    "role": "Restaurant Operations Manager",
+    "industry": "Hospitality",
+    "experience_years": 16,
+    "skills": [
+      "Food safety",
+      "Menu planning",
+      "Kitchen scheduling",
+      "Restaurant service"
+    ],
+    "interests": [
+      "Culinary arts",
+      "Local cuisine"
+    ],
+    "professional_summary": "Synthetic restaurant operations manager with 16 years in hospitality, focused on food safety and culinary arts."
+  },
+  {
+    "user_id": "usr_00091",
+    "name": "Priya Chen",
+    "role": "Backend Developer",
+    "industry": "Technology",
+    "experience_years": 8,
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "API design"
+    ],
+    "interests": [
+      "AI Products",
+      "Startups"
+    ],
+    "professional_summary": "Synthetic backend developer with 8 years in technology, focused on python and ai products."
+  },
+  {
+    "user_id": "usr_00092",
+    "name": "Leo Rivera",
+    "role": "Backend Developer",
+    "industry": "Technology",
+    "experience_years": 4,
+    "skills": [
+      "Java",
+      "SQL",
+      "API design",
+      "Docker"
+    ],
+    "interests": [
+      "Payment systems",
+      "Reliable systems"
+    ],
+    "professional_summary": "Synthetic backend developer with 4 years in technology, focused on java and payment systems."
+  },
+  {
+    "user_id": "usr_00093",
+    "name": "Amara Garcia",
+    "role": "Machine Learning Engineer",
+    "industry": "Technology",
+    "skills": [
+      "TensorFlow",
+      "MLOps",
+      "Docker"
+    ],
+    "experience_years": 4,
+    "interests": [
+      "Sustainable innovation",
+      "Innovation in technology",
+      "Python"
+    ],
+    "professional_summary": "Machine Learning Engineer with 4 years of experience in technology, focused on python and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00094",
+    "name": "Leo Lopez",
+    "role": "Data Scientist",
+    "industry": "Finance",
+    "skills": [
+      "Statistics",
+      "Machine Learning",
+      "Python"
+    ],
+    "experience_years": 17,
+    "interests": [
+      "Mentorship",
+      "Innovation in finance",
+      "Python"
+    ],
+    "professional_summary": "Data Scientist with 17 years of experience in finance, focused on python and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00095",
+    "name": "Nadia Nguyen",
+    "role": "Data Engineer",
+    "industry": "Retail",
+    "skills": [
+      "Data modeling",
+      "SQL",
+      "dbt"
+    ],
+    "experience_years": 6,
+    "interests": [
+      "Startups",
+      "Innovation in retail",
+      "Python"
+    ],
+    "professional_summary": "Data Engineer with 6 years of experience in retail, focused on python and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00096",
+    "name": "Kai Vega",
+    "role": "Product Manager",
+    "industry": "Education technology",
+    "skills": [
+      "Roadmapping",
+      "Agile",
+      "Product strategy",
+      "User research",
+      "Analytics"
+    ],
+    "experience_years": 2,
+    "interests": [
+      "Mentorship",
+      "Innovation in education technology",
+      "Product strategy"
+    ],
+    "professional_summary": "Product Manager with 2 years of experience in education technology, focused on product strategy and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00097",
+    "name": "Isabel Rivera",
+    "role": "UX Designer",
+    "industry": "Healthcare",
+    "skills": [
+      "User experience",
+      "Figma",
+      "Design systems",
+      "Prototyping"
+    ],
+    "experience_years": 16,
+    "interests": [
+      "Startups",
+      "Innovation in healthcare",
+      "Figma"
+    ],
+    "professional_summary": "UX Designer with 16 years of experience in healthcare, focused on figma and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00098",
+    "name": "Omar Chen",
+    "role": "UI Designer",
+    "industry": "Ecommerce",
+    "skills": [
+      "Figma",
+      "Design systems",
+      "Prototyping",
+      "Visual design"
+    ],
+    "experience_years": 3,
+    "interests": [
+      "Sustainable innovation",
+      "Innovation in ecommerce",
+      "Figma"
+    ],
+    "professional_summary": "UI Designer with 3 years of experience in ecommerce, focused on figma and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00099",
+    "name": "Lucia Patel",
+    "role": "Marketing Manager",
+    "industry": "Retail",
+    "skills": [
+      "Content marketing",
+      "Copywriting",
+      "Campaign management"
+    ],
+    "experience_years": 10,
+    "interests": [
+      "Sustainable innovation",
+      "Innovation in retail",
+      "Content marketing"
+    ],
+    "professional_summary": "Marketing Manager with 10 years of experience in retail, focused on content marketing and cross-functional collaboration."
+  },
+  {
+    "user_id": "usr_00100",
+    "name": "Elena Okafor",
+    "role": "Growth Manager",
+    "industry": "Ecommerce",
+    "skills": [
+      "SEO",
+      "Analytics",
+      "Campaign management",
+      "A/B testing"
+    ],
+    "experience_years": 8,
+    "interests": [
+      "Mentorship",
+      "Innovation in ecommerce",
+      "Growth strategy"
+    ],
+    "professional_summary": "Growth Manager with 8 years of experience in ecommerce, focused on growth strategy and cross-functional collaboration."
+  }
+]

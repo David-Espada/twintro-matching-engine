@@ -1,0 +1,148 @@
+[
+  {
+    "run": "cold",
+    "profiles_evaluated": 300,
+    "total_network_size": 50000,
+    "semantic_candidates": 200,
+    "complementarity_candidates": 100,
+    "candidate_pool_size": 300,
+    "profiles_fully_scored": 300,
+    "retrieval_backend": "pgvector",
+    "vector_retrieval_time_ms": 3675.45,
+    "complementarity_retrieval_time_ms": 51.56,
+    "thde_scoring_time_ms": 75.59,
+    "execution_time_ms": 3832.82,
+    "ranking_limit": 5,
+    "retrieval_mode": "hybrid",
+    "engine_version": "THDE-1.0",
+    "source": {
+      "user_id": "usr_00004",
+      "name": "Taylor Okafor",
+      "role": "AI Engineer",
+      "industry": "Healthcare",
+      "skills": [
+        "PyTorch",
+        "Machine Learning",
+        "Python",
+        "FastAPI"
+      ],
+      "experience_years": 6.0,
+      "interests": [
+        "Startups",
+        "Innovation in healthcare",
+        "Python"
+      ],
+      "professional_summary": "AI Engineer with 6 years of experience in healthcare, focused on python and cross-functional collaboration."
+    },
+    "top5": [
+      {
+        "user_id": "usr_05372",
+        "name": "Noah Vega",
+        "role": "AI Engineer",
+        "affinity": 93.2,
+        "complementarity": 55.0
+      },
+      {
+        "user_id": "usr_07176",
+        "name": "Kai Singh",
+        "role": "AI Engineer",
+        "affinity": 93.2,
+        "complementarity": 55.0
+      },
+      {
+        "user_id": "usr_19672",
+        "name": "Noah Park",
+        "role": "AI Engineer",
+        "affinity": 93.2,
+        "complementarity": 55.0
+      },
+      {
+        "user_id": "usr_32586",
+        "name": "Avery Park",
+        "role": "AI Engineer",
+        "affinity": 93.2,
+        "complementarity": 55.0
+      },
+      {
+        "user_id": "usr_34654",
+        "name": "Leo Kim",
+        "role": "AI Engineer",
+        "affinity": 93.2,
+        "complementarity": 55.0
+      }
+    ]
+  },
+  {
+    "run": "warm",
+    "profiles_evaluated": 300,
+    "total_network_size": 50000,
+    "semantic_candidates": 200,
+    "complementarity_candidates": 100,
+    "candidate_pool_size": 300,
+    "profiles_fully_scored": 300,
+    "retrieval_backend": "pgvector",
+    "vector_retrieval_time_ms": 7.71,
+    "complementarity_retrieval_time_ms": 45.41,
+    "thde_scoring_time_ms": 53.43,
+    "execution_time_ms": 127.76,
+    "ranking_limit": 5,
+    "retrieval_mode": "hybrid",
+    "engine_version": "THDE-1.0",
+    "source": {
+      "user_id": "usr_00004",
+      "name": "Taylor Okafor",
+      "role": "AI Engineer",
+      "industry": "Healthcare",
+      "skills": [
+        "PyTorch",
+        "Machine Learning",
+        "Python",
+        "FastAPI"
+      ],
+      "experience_years": 6.0,
+      "interests": [
+        "Startups",
+        "Innovation in healthcare",
+        "Python"
+      ],
+      "professional_summary": "AI Engineer with 6 years of experience in healthcare, focused on python and cross-functional collaboration."
+    },
+    "top5": [
+      {
+        "user_id": "usr_05372",
+        "name": "Noah Vega",
+        "role": "AI Engineer",
+        "affinity": 93.2,
+        "complementarity": 55.0
+      },
+      {
+        "user_id": "usr_07176",
+        "name": "Kai Singh",
+        "role": "AI Engineer",
+        "affinity": 93.2,
+        "complementarity": 55.0
+      },
+      {
+        "user_id": "usr_19672",
+        "name": "Noah Park",
+        "role": "AI Engineer",
+        "affinity": 93.2,
+        "complementarity": 55.0
+      },
+      {
+        "user_id": "usr_32586",
+        "name": "Avery Park",
+        "role": "AI Engineer",
+        "affinity": 93.2,
+        "complementarity": 55.0
+      },
+      {
+        "user_id": "usr_34654",
+        "name": "Leo Kim",
+        "role": "AI Engineer",
+        "affinity": 93.2,
+        "complementarity": 55.0
+      }
+    ]
+  }
+]

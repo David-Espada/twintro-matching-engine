@@ -1,0 +1,37 @@
+[
+  {
+    "profiles_created": 0,
+    "profiles_updated": 0,
+    "embeddings_generated": 0,
+    "network_size": 100,
+    "seeding_time_seconds": 0.112
+  },
+  {
+    "profiles_created": 900,
+    "profiles_updated": 0,
+    "embeddings_generated": 900,
+    "network_size": 1000,
+    "seeding_time_seconds": 7.661
+  },
+  {
+    "profiles_created": 9000,
+    "profiles_updated": 0,
+    "embeddings_generated": 9000,
+    "network_size": 10000,
+    "seeding_time_seconds": 30.276
+  },
+  {
+    "profiles_created": 15000,
+    "profiles_updated": 0,
+    "embeddings_generated": 15000,
+    "network_size": 25000,
+    "seeding_time_seconds": 39.031
+  },
+  {
+    "profiles_created": 25000,
+    "profiles_updated": 0,
+    "embeddings_generated": 25000,
+    "network_size": 50000,
+    "seeding_time_seconds": 53.37
+  }
+]

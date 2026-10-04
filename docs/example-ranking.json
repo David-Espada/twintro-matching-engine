@@ -1,0 +1,288 @@
+{
+  "match_mode": "1-to-n",
+  "source_user": {
+    "user_id": "usr_00004",
+    "name": "Taylor Okafor",
+    "role": "AI Engineer",
+    "industry": "Healthcare",
+    "skills": [
+      "PyTorch",
+      "Machine Learning",
+      "Python",
+      "FastAPI"
+    ],
+    "experience_years": 6.0,
+    "interests": [
+      "Startups",
+      "Innovation in healthcare",
+      "Python"
+    ],
+    "professional_summary": "AI Engineer with 6 years of experience in healthcare, focused on python and cross-functional collaboration."
+  },
+  "results": [
+    {
+      "match_mode": "1-to-n",
+      "source_user": {
+        "user_id": "usr_00004",
+        "name": "Taylor Okafor",
+        "role": "AI Engineer",
+        "industry": "Healthcare",
+        "skills": [
+          "PyTorch",
+          "Machine Learning",
+          "Python",
+          "FastAPI"
+        ],
+        "experience_years": 6.0,
+        "interests": [
+          "Startups",
+          "Innovation in healthcare",
+          "Python"
+        ],
+        "professional_summary": "AI Engineer with 6 years of experience in healthcare, focused on python and cross-functional collaboration."
+      },
+      "target_user": {
+        "user_id": "usr_00048",
+        "name": "Cameron Ali",
+        "role": "AI Engineer",
+        "industry": "Healthcare",
+        "skills": [
+          "FastAPI",
+          "Machine Learning",
+          "Python",
+          "PyTorch",
+          "Natural language processing"
+        ],
+        "experience_years": 4.0,
+        "interests": [
+          "Mentorship",
+          "Innovation in healthcare",
+          "Python"
+        ],
+        "professional_summary": "AI Engineer with 4 years of experience in healthcare, focused on python and cross-functional collaboration."
+      },
+      "affinity_percentage": 84.3,
+      "match_level": "Strong Match",
+      "complementarity_level": "Low Complementarity",
+      "connection_insight": "These professionals are highly similar, making them suitable for peer collaboration, knowledge exchange, or comparable roles.",
+      "target_role_family": "ai_data",
+      "target_normalized_industry": "healthcare",
+      "evidence_tags": [
+        "Shared skills",
+        "Same industry",
+        "Semantic similarity"
+      ],
+      "confidence": 1.0,
+      "score_breakdown": {
+        "skills": 88.89,
+        "role": 100.0,
+        "industry": 100.0,
+        "experience": 80.0,
+        "interests": 63.9489,
+        "complementarity": 55.0
+      },
+      "profile_comparison": {
+        "shared_domains": [
+          "ai_machine_learning",
+          "software_engineering"
+        ],
+        "shared_skills": [
+          "FastAPI",
+          "Machine Learning",
+          "Python",
+          "PyTorch"
+        ],
+        "related_skills": [
+          {
+            "source_skill": "Machine Learning",
+            "target_skill": "Natural language processing",
+            "similarity": 48.2
+          }
+        ],
+        "complementary_strengths": [
+          "ai machine learning + software engineering",
+          "software engineering + ai machine learning"
+        ]
+      },
+      "justification": "Taylor Okafor and Cameron Ali have a strong match (84.3% affinity). Collaboration potential is 55.0% (low complementarity); it is distinct from overall affinity. Shared skills include FastAPI, Machine Learning, Python. Explore collaboration across ai machine learning + software engineering.",
+      "metadata": {
+        "execution_time_ms": 0.97,
+        "engine_version": "THDE-1.0",
+        "available_weight": 1.0,
+        "justification_provider": "template"
+      }
+    },
+    {
+      "match_mode": "1-to-n",
+      "source_user": {
+        "user_id": "usr_00004",
+        "name": "Taylor Okafor",
+        "role": "AI Engineer",
+        "industry": "Healthcare",
+        "skills": [
+          "PyTorch",
+          "Machine Learning",
+          "Python",
+          "FastAPI"
+        ],
+        "experience_years": 6.0,
+        "interests": [
+          "Startups",
+          "Innovation in healthcare",
+          "Python"
+        ],
+        "professional_summary": "AI Engineer with 6 years of experience in healthcare, focused on python and cross-functional collaboration."
+      },
+      "target_user": {
+        "user_id": "usr_00081",
+        "name": "Avery Quinn",
+        "role": "AI Engineer",
+        "industry": "Technology",
+        "skills": [
+          "Python",
+          "Machine Learning",
+          "PyTorch",
+          "FastAPI"
+        ],
+        "experience_years": 8.0,
+        "interests": [
+          "AI Products",
+          "Startups"
+        ],
+        "professional_summary": "Synthetic ai engineer with 8 years in technology, focused on python and ai products."
+      },
+      "affinity_percentage": 79.1,
+      "match_level": "Good Match",
+      "complementarity_level": "Low Complementarity",
+      "connection_insight": "The available profile evidence suggests limited professional alignment or complementary value.",
+      "target_role_family": "ai_data",
+      "target_normalized_industry": "technology",
+      "evidence_tags": [
+        "Shared skills"
+      ],
+      "confidence": 1.0,
+      "score_breakdown": {
+        "skills": 100.0,
+        "role": 100.0,
+        "industry": 41.2432,
+        "experience": 100.0,
+        "interests": 46.3365,
+        "complementarity": 55.0
+      },
+      "profile_comparison": {
+        "shared_domains": [
+          "ai_machine_learning",
+          "software_engineering"
+        ],
+        "shared_skills": [
+          "FastAPI",
+          "Machine Learning",
+          "Python",
+          "PyTorch"
+        ],
+        "related_skills": [],
+        "complementary_strengths": [
+          "ai machine learning + software engineering",
+          "software engineering + ai machine learning"
+        ]
+      },
+      "justification": "Taylor Okafor and Avery Quinn have a good match (79.1% affinity). Collaboration potential is 55.0% (low complementarity); it is distinct from overall affinity. Shared skills include FastAPI, Machine Learning, Python. Explore collaboration across ai machine learning + software engineering.",
+      "metadata": {
+        "execution_time_ms": 1.21,
+        "engine_version": "THDE-1.0",
+        "available_weight": 1.0,
+        "justification_provider": "template"
+      }
+    },
+    {
+      "match_mode": "1-to-n",
+      "source_user": {
+        "user_id": "usr_00004",
+        "name": "Taylor Okafor",
+        "role": "AI Engineer",
+        "industry": "Healthcare",
+        "skills": [
+          "PyTorch",
+          "Machine Learning",
+          "Python",
+          "FastAPI"
+        ],
+        "experience_years": 6.0,
+        "interests": [
+          "Startups",
+          "Innovation in healthcare",
+          "Python"
+        ],
+        "professional_summary": "AI Engineer with 6 years of experience in healthcare, focused on python and cross-functional collaboration."
+      },
+      "target_user": {
+        "user_id": "usr_00082",
+        "name": "Casey Lin",
+        "role": "AI Engineer",
+        "industry": "Technology",
+        "skills": [
+          "Python",
+          "Machine Learning",
+          "PyTorch",
+          "FastAPI"
+        ],
+        "experience_years": 8.0,
+        "interests": [
+          "AI Products",
+          "Startups"
+        ],
+        "professional_summary": "Synthetic ai engineer with 8 years in technology, focused on python and ai products."
+      },
+      "affinity_percentage": 79.1,
+      "match_level": "Good Match",
+      "complementarity_level": "Low Complementarity",
+      "connection_insight": "The available profile evidence suggests limited professional alignment or complementary value.",
+      "target_role_family": "ai_data",
+      "target_normalized_industry": "technology",
+      "evidence_tags": [
+        "Shared skills"
+      ],
+      "confidence": 1.0,
+      "score_breakdown": {
+        "skills": 100.0,
+        "role": 100.0,
+        "industry": 41.2432,
+        "experience": 100.0,
+        "interests": 46.3365,
+        "complementarity": 55.0
+      },
+      "profile_comparison": {
+        "shared_domains": [
+          "ai_machine_learning",
+          "software_engineering"
+        ],
+        "shared_skills": [
+          "FastAPI",
+          "Machine Learning",
+          "Python",
+          "PyTorch"
+        ],
+        "related_skills": [],
+        "complementary_strengths": [
+          "ai machine learning + software engineering",
+          "software engineering + ai machine learning"
+        ]
+      },
+      "justification": null,
+      "metadata": {
+        "execution_time_ms": 1.19,
+        "engine_version": "THDE-1.0",
+        "available_weight": 1.0,
+        "justification_provider": "none"
+      }
+    }
+  ],
+  "metadata": {
+    "profiles_evaluated": 99,
+    "candidate_pool_size": 99,
+    "execution_time_ms": 149.51,
+    "ranking_limit": 3,
+    "retrieval_mode": "full",
+    "engine_version": "THDE-1.0"
+  }
+}

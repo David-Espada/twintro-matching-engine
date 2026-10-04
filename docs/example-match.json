@@ -1,0 +1,76 @@
+{
+  "match_mode": "1-to-1",
+  "source_user": {
+    "user_id": "usr_00004",
+    "name": "Taylor Okafor",
+    "role": "AI Engineer",
+    "industry": "Healthcare",
+    "skills": [
+      "PyTorch",
+      "Machine Learning",
+      "Python",
+      "FastAPI"
+    ],
+    "experience_years": 6.0,
+    "interests": [
+      "Startups",
+      "Innovation in healthcare",
+      "Python"
+    ],
+    "professional_summary": "AI Engineer with 6 years of experience in healthcare, focused on python and cross-functional collaboration."
+  },
+  "target_user": {
+    "user_id": "usr_00008",
+    "name": "Cameron Santos",
+    "role": "Product Manager",
+    "industry": "Education technology",
+    "skills": [
+      "Agile",
+      "User research",
+      "Product strategy",
+      "Roadmapping"
+    ],
+    "experience_years": 4.0,
+    "interests": [
+      "Mentorship",
+      "Innovation in education technology",
+      "Product strategy"
+    ],
+    "professional_summary": "Product Manager with 4 years of experience in education technology, focused on product strategy and cross-functional collaboration."
+  },
+  "affinity_percentage": 38.7,
+  "match_level": "Weak Match",
+  "complementarity_level": "Exceptional Complementarity",
+  "connection_insight": "These professionals work in different areas, but their capabilities may combine effectively in cross-functional collaboration.",
+  "target_role_family": "product",
+  "target_normalized_industry": "education technology",
+  "evidence_tags": [
+    "Complementary role"
+  ],
+  "confidence": 1.0,
+  "score_breakdown": {
+    "skills": 17.4243,
+    "role": 29.9852,
+    "industry": 21.5918,
+    "experience": 80.0,
+    "interests": 20.313,
+    "complementarity": 95.0
+  },
+  "profile_comparison": {
+    "shared_domains": [],
+    "shared_skills": [],
+    "related_skills": [],
+    "complementary_strengths": [
+      "ai data + product",
+      "ai machine learning + product",
+      "software engineering + product"
+    ]
+  },
+  "justification": "Taylor Okafor and Cameron Santos have a weak match (38.7% affinity). Collaboration potential is 95.0% (exceptional complementarity); it is distinct from overall affinity. Explore collaboration across ai data + product.",
+  "metadata": {
+    "execution_time_ms": 5.01,
+    "engine_version": "THDE-1.0",
+    "available_weight": 1.0,
+    "justification_provider": "template"
+  }
+}

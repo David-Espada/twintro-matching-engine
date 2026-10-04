@@ -1,0 +1,22 @@
+[
+  {
+    "run": "cold",
+    "profiles_evaluated": 999,
+    "candidate_pool_size": 999,
+    "execution_time_ms": 6199.39,
+    "ranking_limit": 20,
+    "retrieval_mode": "full",
+    "engine_version": "THDE-1.0",
+    "top_affinity": 88.8
+  },
+  {
+    "run": "warm",
+    "profiles_evaluated": 999,
+    "candidate_pool_size": 999,
+    "execution_time_ms": 1357.92,
+    "ranking_limit": 20,
+    "retrieval_mode": "full",
+    "engine_version": "THDE-1.0",
+    "top_affinity": 88.8
+  }
+]
